@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/DSInnovators/js-essentials#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2"
   }
 }
